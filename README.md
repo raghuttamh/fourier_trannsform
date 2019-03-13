@@ -1,4 +1,4 @@
-# fourier_trannsform
+# fourier_transform
 This repository contains the code that can explain the construction of different waves using Fourier Series
 
 # Running the file
