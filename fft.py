@@ -12,3 +12,5 @@ def FFT(d):
         y[j] = y_even[j] + W**j*y_odd[j]
         y[j+int(n/2)] = y_even[j] - W**j*y_odd[j]
     return np.array(y)
+
+#Adding comments
